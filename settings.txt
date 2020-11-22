@@ -1,0 +1,17 @@
+Nov 18, 2020
+Udemy 20 Javascript projects 
+Section 4 Infinity Scroll of Unsplash photos
+
+use the golive server built into VS Code to start this.
+localhost:5500
+
+> loading.io
+loading icons, animated
+
+fonts.google.com
+
+getting pictures and using their API
+https://unsplash.com/documentation
+
+DOM events - scroll  in this case
+
